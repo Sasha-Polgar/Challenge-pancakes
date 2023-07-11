@@ -1,0 +1,40 @@
+
+
+body {
+
+    font-family: sans-serif;
+    background-color: #fff3db;
+}
+
+h2{
+
+    color: #f02425;
+    text-align: center;
+    font-weight: 900;
+}
+
+h1 {
+
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+
+h3 {
+
+    text-align: center;
+    font-weight: normal;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.ROUGE {
+
+    color: #f02425;
+    font-weight: 900;
+}
+
+.rouge {
+
+    color: #f02425;
+}
