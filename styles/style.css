@@ -38,3 +38,8 @@ h3 {
 
     color: #f02425;
 }
+
+img {
+    width: 100%;
+    height: auto;
+}
