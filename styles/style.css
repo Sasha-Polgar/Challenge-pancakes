@@ -43,3 +43,12 @@ img {
     width: 100%;
     height: auto;
 }
+
+.astuce {
+
+    text-align: center;
+    background-color: #f7d09c;
+    font-style: italic;
+    color: #575757;
+    font-weight: 900;
+}
