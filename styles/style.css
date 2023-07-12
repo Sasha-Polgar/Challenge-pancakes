@@ -4,6 +4,9 @@ body {
 
     font-family: sans-serif;
     background-color: #fff3db;
+    max-width: 720px;
+    margin: 0 auto;
+    width: 90%;
 }
 
 h1,
@@ -16,7 +19,7 @@ h3 {
 h2{
 
     color: #f02425;
-    font-weight: 900;
+    font-weight: bold;
 }
 
 h1 {
@@ -36,7 +39,7 @@ h3 {
 .ROUGE {
 
     color: #f02425;
-    font-weight: 900;
+    font-weight: bold;
 }
 
 .rouge {
@@ -45,8 +48,10 @@ h3 {
 }
 
 img {
-    width: 100%;
-    height: auto;
+
+    display: block;
+    width: 90%;
+    margin: 0 auto;
 }
 
 .astuce {
@@ -55,5 +60,5 @@ img {
     background-color: #f7d09c;
     font-style: italic;
     color: #575757;
-    font-weight: 900;
+    font-weight: bold;
 }
